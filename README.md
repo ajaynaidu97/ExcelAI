@@ -21,7 +21,6 @@ A Streamlit app that lets you upload an Excel file and ask questions in natural 
     ```
     MISTRAL_API_KEY=your-key-here
     ```
-
 4. Run the app:
     ```
     streamlit run app.py
